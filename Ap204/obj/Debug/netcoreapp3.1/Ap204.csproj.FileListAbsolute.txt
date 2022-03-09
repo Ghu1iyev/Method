@@ -1,0 +1,14 @@
+C:\Users\fazil\Desktop\Ap204\Ap204\bin\Debug\netcoreapp3.1\Ap204.exe
+C:\Users\fazil\Desktop\Ap204\Ap204\bin\Debug\netcoreapp3.1\Ap204.deps.json
+C:\Users\fazil\Desktop\Ap204\Ap204\bin\Debug\netcoreapp3.1\Ap204.runtimeconfig.json
+C:\Users\fazil\Desktop\Ap204\Ap204\bin\Debug\netcoreapp3.1\Ap204.runtimeconfig.dev.json
+C:\Users\fazil\Desktop\Ap204\Ap204\bin\Debug\netcoreapp3.1\Ap204.dll
+C:\Users\fazil\Desktop\Ap204\Ap204\bin\Debug\netcoreapp3.1\Ap204.pdb
+C:\Users\fazil\Desktop\Ap204\Ap204\obj\Debug\netcoreapp3.1\Ap204.csproj.AssemblyReference.cache
+C:\Users\fazil\Desktop\Ap204\Ap204\obj\Debug\netcoreapp3.1\Ap204.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazil\Desktop\Ap204\Ap204\obj\Debug\netcoreapp3.1\Ap204.AssemblyInfoInputs.cache
+C:\Users\fazil\Desktop\Ap204\Ap204\obj\Debug\netcoreapp3.1\Ap204.AssemblyInfo.cs
+C:\Users\fazil\Desktop\Ap204\Ap204\obj\Debug\netcoreapp3.1\Ap204.csproj.CoreCompileInputs.cache
+C:\Users\fazil\Desktop\Ap204\Ap204\obj\Debug\netcoreapp3.1\Ap204.dll
+C:\Users\fazil\Desktop\Ap204\Ap204\obj\Debug\netcoreapp3.1\Ap204.pdb
+C:\Users\fazil\Desktop\Ap204\Ap204\obj\Debug\netcoreapp3.1\Ap204.genruntimeconfig.cache
